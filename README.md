@@ -2,7 +2,7 @@
 
 ## 项目概述
 
-本项目是一个基于面向对象编程（OOP）思想、TypeScript 语言、单页面应用（SPA）技术、WebComponent 的 Shadow DOM（影子 DOM） 技术以及自定义迷你路由器（Mini Router）实现的单页面小游戏——“飞翔的小鸟”。
+该游戏采用现代化的Web技术栈构建，旨在为用户提供流畅的游戏体验，并且具有良好的可维护性和扩展性。通过结合TypeScript、面向对象编程（OOP）、单页面应用（SPA）设计模式、Shadow DOM以及RustWasm等技术，保证了游戏性能。
 
 ## 技术栈
 
